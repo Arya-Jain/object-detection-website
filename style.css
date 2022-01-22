@@ -33,3 +33,14 @@ a{
     line-height: 50px;
     font-size: medium;
   }
+
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border: 5px solid orange;
+    border-radius: 20px;
+}
+
+.back{
+    float:left;
+    width: auto;
+}
