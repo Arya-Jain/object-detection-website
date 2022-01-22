@@ -38,9 +38,10 @@ canvas{
     box-shadow: 5px 5px 5px gray;
     border: 5px solid orange;
     border-radius: 20px;
+    margin-top: 50px;
 }
 
 .back{
-    float:left;
+    float:center;
     width: auto;
 }
